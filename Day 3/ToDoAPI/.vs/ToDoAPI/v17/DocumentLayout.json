@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Internship\\Day 3\\ToDoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\services\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\services\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\services\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|d:\\internship\\day 3\\todoapi\\todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F06DBD7-2AB5-4084-A29B-85986321D135}|ToDoAPI\\ToDoAPI.csproj|solutionrelative:todoapi\\todoapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\Startup.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Services\\Startup.cs",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\Startup.cs",
+              "RelativeToolTip": "ToDoAPI\\Services\\Startup.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:46:07.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToDoController.cs",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Controllers\\ToDoController.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Controllers\\ToDoController.cs",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Controllers\\ToDoController.cs",
+              "RelativeToolTip": "ToDoAPI\\Controllers\\ToDoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:45:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToDoService.cs",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\ToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Services\\ToDoService.cs",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\ToDoService.cs",
+              "RelativeToolTip": "ToDoAPI\\Services\\ToDoService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:44:44.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IToDoService.cs",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\IToDoService.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Services\\IToDoService.cs",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Services\\IToDoService.cs",
+              "RelativeToolTip": "ToDoAPI\\Services\\IToDoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:43:34.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoAPI.csproj",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeDocumentMoniker": "ToDoAPI\\ToDoAPI.csproj",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\ToDoAPI.csproj",
+              "RelativeToolTip": "ToDoAPI\\ToDoAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T04:42:44.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "ToDoAPI\\Models\\ToDoItem.cs",
+              "ToolTip": "D:\\Internship\\Day 3\\ToDoAPI\\ToDoAPI\\Models\\ToDoItem.cs",
+              "RelativeToolTip": "ToDoAPI\\Models\\ToDoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:42:10.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
